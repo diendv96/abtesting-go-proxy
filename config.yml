@@ -1,0 +1,11 @@
+port: 5000
+authorization: Basic Y2hvdG90OmNob3RvdA==
+fliptApiEvaluate: http://flipt-api/api/v1/evaluate
+flip_enabled: 1
+targetSite1: 127.0.0.1:8090
+targetSite2: 127.0.0.1:8080
+defaultVehSite: 127.0.0.1:8090
+optimizely_sdk_key: JofBfFAJCSYK4KVBeJdSAN
+flagKey: veh-pagination
+flagCacheExpireInSeconds: 600
+flagCacheInMb: 10
